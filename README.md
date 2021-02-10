@@ -4,7 +4,7 @@ Meu potifólio de projetos de Data Science
   <img src="Banner.png" >
 </p>
 
-# Kleyton Sousa
+# Kleyton Rodrigues
 
 <sub>*Junior Credit Analyst* at Creditas</sub>
 
@@ -22,4 +22,5 @@ Profissional com atuação na área de risco e atendimento ao cliente e estudant
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/kleytonsousarodrigues/)
+* [Medium](https://medium.com/@kkleyton.s)
 

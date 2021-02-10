@@ -17,7 +17,7 @@ Profissional com atuação na área de risco e atendimento ao cliente e estudant
 - Experiência com as principais ferramentas de atendimento, Zendesk, chat, tableau;
 - Aprendendo a desenvolver análise de dados da área;
 - Trabalhando junto a outros times para alinhar processos que impactam a operação;
-- Cursando Bacharel em Data Science e aluno da DNSP.
+- Cursando Bacharel em Data Science e aluno da DSNP - Sigmoidal.
 
 **Links:**
 

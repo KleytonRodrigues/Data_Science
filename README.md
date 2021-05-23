@@ -8,14 +8,12 @@ Meu potifólio de projetos de Data Science
 
 <sub>*Junior Credit Analyst* at Creditas</sub>
 
-Profissional com atuação na área de risco e atendimento ao cliente e estudante de Data Science.
+Profissional com atuação na área de risco de crédito e estudante de Data Science.
 
-- Mais de 2 anos com atendimento a clientes em Customer Experience e 2 anos na área de risco no mercado financeiro;
-- Experiência negociações com clientes;
+- Mais de 2 anos na área de risco no mercado financeiro;
 - Perfil analítico;
-- Análise para melhoria de processos;
-- Experiência com as principais ferramentas de atendimento, Zendesk, chat, tableau;
-- Aprendendo a desenvolver análise de dados da área;
+- Análise para melhora de processos;
+- Análise de dados com Python;
 - Trabalhando junto a outros times para alinhar processos que impactam a operação;
 - Cursando Bacharel em Data Science e aluno da DSNP - Sigmoidal.
 

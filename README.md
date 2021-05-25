@@ -24,5 +24,5 @@ Profissional com atuação na área de risco de crédito e estudante de Data Sci
 
 **Projetos:**
 
-* [Análise de dados Airbnb](https://github.com/KleytonRodrigues/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Paris_.ipynb)
+* [Análise de dados Airbnb - Paris](https://github.com/KleytonRodrigues/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Paris_.ipynb)
 

@@ -11,7 +11,6 @@ Meu potifólio de projetos de Data Science
 Profissional com atuação na área de risco de crédito e estudante de Data Science.
 
 - Mais de 2 anos na área de risco no mercado financeiro;
-- Perfil analítico;
 - Análise para melhora de processos;
 - Análise de dados com Python;
 - Trabalhando junto a outros times para alinhar processos que impactam a operação;

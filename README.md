@@ -22,3 +22,4 @@ Profissional com atuação na área de risco de crédito e estudante de Data Sci
 * [LinkedIn](https://www.linkedin.com/in/kleytonsousarodrigues/)
 * [Medium](https://kkleyton-s.medium.com/)
 
+**Projetos**

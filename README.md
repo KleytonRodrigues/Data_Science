@@ -1,5 +1,5 @@
 # Data_Science
-Meu potifólio de projetos de Data Science
+Meu Portfólio de projetos de Data Science
 <p align="center">
   <img src="Banner.png" >
 </p>

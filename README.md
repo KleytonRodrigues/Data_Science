@@ -6,7 +6,7 @@ Meu Portfólio de projetos de Data Science
 
 # Kleyton Rodrigues
 
-<sub>*Junior Credit Analyst* at Creditas</sub>
+<sub>*Meu Portfólio de projetos de Data Science</sub>
 
 Profissional com atuação na área de risco de crédito e estudante de Data Science.
 

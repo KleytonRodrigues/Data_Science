@@ -27,4 +27,5 @@ Profissional com mais de 3 anos no mercado financeiro em times de crédito, auto
 **Projetos:**
 
 * [Análise de dados Airbnb - Paris](https://github.com/KleytonRodrigues/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Paris_.ipynb)
+* [Prevendo o campeão brasileiro da séria A](https://github.com/KleytonRodrigues/Projetos/blob/main/Prevendo%20o%20campe%C3%A3o%20brasileiro%20s%C3%A9rie%20A..ipynb)
 

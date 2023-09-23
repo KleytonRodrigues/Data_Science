@@ -8,13 +8,16 @@ Meu Portfólio de projetos de Data Science
 
 <sub>*Meu Portfólio de projetos de Data Science</sub>
 
-Profissional com atuação na área de risco de crédito e estudante de Data Science.
+Profissional com mais de 3 anos no mercado financeiro em times de crédito, automação de processos e estratégia de fraudes.
 
 - Mais de 2 anos na área de risco no mercado financeiro;
 - Análise para melhoria de processos;
 - Análise de dados com Python;
-- Trabalhando junto a outros times para alinhar processos que impactam a operação;
-- Cursando Bacharel em Data Science e aluno da DSNP - Sigmoidal.
+- Cursando Bacharel em Ciência de Dados
+- Análise de Dados;
+- Melhoria e Automação de Processos;
+- Estratégia de Prevenção a Fraudes (Indicadores e Regras);
+- Uso de ferramentas para análise de dados como: Excel, Python, SQL, Power BI e tableau;
 
 **Links:**
 
